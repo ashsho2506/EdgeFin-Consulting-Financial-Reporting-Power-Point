@@ -1,4 +1,4 @@
-# 📊 Financial Dashboard & Presentation Report (PowerPoint)
+# 📊 EdgeFIn Consulting Financial Reporting (PowerPoint)
 
 This repository showcases a **comprehensive financial report** designed in **Microsoft PowerPoint** to effectively communicate a company's financial performance and key insights. The presentation combines structured financial data, KPI analysis, and forecast models to create a visually impactful and strategic financial overview.
 
